@@ -1,2 +1,2 @@
 # Weather-Forecasting-App
-I built this weather app with Django and used Tkinter, a desktop GUI toolkit, which is able to provide weather information for the next five days of any city.And here i used the API of openweathermap.org
+I built this weather app with Django which is able to provide weather information for the next five days of any city and by dividing each day into different temperatures we can get an idea about the temperature of the whole day from this app. Along with this, the maximum temperature and minimum temperature of a day can also be known from this app.I used in it PyQt5 library for creating the graphical user interface (GUI).And here i used the API key of openweathermap.org
